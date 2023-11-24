@@ -1,0 +1,4 @@
+usr/include
+usr/lib/*/libsbsms.a
+usr/lib/*/libsbsms.so
+usr/lib/*/pkgconfig
